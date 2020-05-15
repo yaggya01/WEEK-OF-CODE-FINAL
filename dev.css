@@ -1,0 +1,15 @@
+.start{
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    border-style: groove;
+    height: 80px;
+    width: 150px;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: chartreuse;
+    border-color: chocolate;
+    text-decoration: none;
+    padding-left: 5;
+    border-color: rebeccapurple;
+}
