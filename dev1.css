@@ -1,0 +1,86 @@
+.border{
+    border: none;
+}
+
+.pos1{
+    position: absolute;
+    top: 125px;
+    left: 366px;
+    width: 20em;
+    height: 2em;
+    padding-left: 5px;
+    background-color:chartreuse;
+}
+
+.pos2{
+    position: absolute;
+    top: 125px;
+    left: 860px;
+    width: 20em;
+    height: 2em;
+    padding-left: 5px;
+    background-color: chartreuse;
+}
+
+.first{
+    font-size: xx-large;
+    position: absolute;
+    top: 120px;
+    left: 200px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.second{
+    font-size: xx-large;
+    position: absolute;
+    top: 120px;
+    left: 700px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.infect{
+    font-size: xx-large;
+    position: absolute;
+    top: 200;
+    left: 500px;
+    font-weight: bolder;
+}
+
+.yes{
+    font-size: x-large;
+    font-weight: bold;
+    position: absolute;
+    top: 208px;
+    left: 670px;
+}
+.yesb{
+    position: absolute;
+    top: 211px;
+    left: 648px;
+}
+
+.no{
+    font-size: x-large;
+    font-weight: bold;
+    position: absolute;
+    top: 208px;
+    left: 750px;
+}
+
+.nob{
+    position: absolute;
+    top: 211px;
+    left: 728px;
+}
+
+.sub{
+    position: absolute;
+    top: 500px;
+    left: 640px;
+    height: 2em;
+    margin: 0;
+    outline: none;
+    cursor: pointer;
+}
