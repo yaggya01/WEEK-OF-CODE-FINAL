@@ -1,0 +1,52 @@
+body{
+    background-image: url(./ppl.PNG);
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
+
+.hey{
+    height:550px;
+    width: 700px;
+    background-color: rgba(255, 102, 0, 0.596);
+    text-align: center;
+    text-decoration: black;
+    top:150px;
+    left:400px;
+    position:absolute;
+    border-color: orangered;
+    border-style: ridge;
+    border-radius: 20%;
+    
+}
+p{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+
+}
+img{
+    width:180px;
+    height:180px;
+    border-radius: 50%;
+    opacity: 0.8;
+} 
+.img {
+  
+  
+    position: relative;
+    animation-name: example;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+    
+  }
+  
+  @keyframes example {
+    0%   { left:0px; top:0px;}
+    25% {left :1200px; top:0px;}
+    50% {left:0px; top:200px;}
+    75%{left:1200px;top:300px;}
+
+    100% {left:00px; top:500px;}
+  }
